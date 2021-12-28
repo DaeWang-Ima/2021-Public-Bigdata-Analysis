@@ -18,4 +18,4 @@
 
 - 군집분석(Hierarchical, K-Means, K-Medois) 결과 Voting을 통해 행정동 선택
 
-- 스마트 분리수거 기기 우선입지 윛 선정을 위해 P-Median 모델 적용
+- 스마트 분리수거 기기 우선입지 위치 선정을 위해 P-Median 모델 적용
