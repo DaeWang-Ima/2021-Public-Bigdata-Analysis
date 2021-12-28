@@ -13,3 +13,9 @@
 - 담당역할: 수도권 재활용배출량 영향 변수 EDA, Linear Regression을 통한 변수 선택
 
 <h2>♻️ 2. 분석 과정</h2>
+
+- Visualization, PCA, Correlation Analysis, Linear Regression을 통해 변수 선택
+
+- 군집분석(Hierarchical, K-Means, K-Medois) 결과 Voting을 통해 행정동 선택
+
+- 스마트 분리수거 기기 우선입지 윛 선정을 위해 P-Median 모델 적용
